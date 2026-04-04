@@ -229,6 +229,6 @@ DSLibrary.exe
 
 ## Author
 
-**Laxmi Rahul Rathod**
+**Laxmi Shankar Aade**
 
 Built as a C++ Data Structures project to understand the internal mechanics of linked lists, stacks, and queues — covering node-level pointer manipulation, generic programming with templates, and clean modular class design.
